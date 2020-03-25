@@ -18,7 +18,7 @@ MonoBehaviour:
   m_fontInfo:
     Name: NintendoExtLE003
     PointSize: 36
-    Scale: 0
+    Scale: 1
     CharacterCount: 128
     LineHeight: 54
     Baseline: 0
@@ -33,7 +33,7 @@ MonoBehaviour:
     UnderlineThickness: 1.7929688
     strikethrough: 9.954545
     strikethroughThickness: 1.7929688
-    TabWidth: 0
+    TabWidth: 90
     Padding: 5
     AtlasWidth: 512
     AtlasHeight: 512
@@ -1304,9 +1304,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
