@@ -74,3 +74,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SCN_Level3.unity
     guid: cad9651b59399294299620481239ec83
+  - enabled: 1
+    path: Assets/Scenes/SCN_Level4.unity
+    guid: 4c104ada4e0ef4640b239c990da5415b
